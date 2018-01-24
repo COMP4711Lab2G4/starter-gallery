@@ -1,8 +1,12 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  John (Captain) & Rost (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+
+Changes Made (First to last):
+- Modified the change log
+- Forked from the Jedi Repo
 
 ## *Version x.x*
 
